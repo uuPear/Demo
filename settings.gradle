@@ -1,1 +1,1 @@
-include ':circleimageview', ':sample'
+include ':circleimageview', ':sample',"calendartest","calendartest2","demo"
